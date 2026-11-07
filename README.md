@@ -29,6 +29,13 @@ python action_extractor.py sample_notes.txt
 python action_extractor.py notes.txt --md actions.md --csv actions.csv
 ```
 
+Short example run output:
+
+```text
+Found 6 action item(s).
+Wrote actions.md and actions.csv
+```
+
 ## Sample output
 
 Running it on the included `sample_notes.txt` (a weekly operations sync):
