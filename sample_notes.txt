@@ -1,0 +1,15 @@
+Weekly Operations Sync — 3 Nov 2026
+
+Attendees: Bassam, Ayesha, Haroon
+
+Updates:
+- Client onboarding checklist is now live for all new accounts.
+- Two SLA breaches last week were caused by late vendor replies.
+
+Action items:
+- [ ] Share the updated onboarding checklist with the client success team - @Ayesha by 2026-11-06
+- [ ] Follow up with the vendor on the delayed API access - @Haroon by 10 Nov 2026 (urgent)
+- [ ] Draft the November operations summary - @Bassam by Nov 12
+TODO: Confirm the December shift rota with HR - Owner: Ayesha
+Action: Archive last quarter's closed tickets - low priority
+- [ ] Book the client review call for next week
